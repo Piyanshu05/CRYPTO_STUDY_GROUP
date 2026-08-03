@@ -67,8 +67,7 @@ LIST OF ALL REQUIREMENTS: [X] : Already Taken; [-]: Unassigned
                             SELF ASSIGNMENT : PIYANSHU PANDYA 
                             ---------------------------------
 - REQ-DSP-301                                        <Piyanshu05/Piyanshu_Pandya>: 25/07/26
-- REQ-CIP-404                                        <Piyanshu05/Piyanshu_Pandya>: 25/07/26
-- REQ-NFR-801                                        <Piyanshu05/Piyanshu_Pandya>: 25/07/26
+- REQ-DSP-302                                        <Piyanshu05/Piyanshu_Pandya>: 25/07/26
 
 
                             SELF ASSIGNMENT : GARGEE KAKATY
