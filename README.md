@@ -19,4 +19,11 @@ Some insecure people explores the science of security.
 Later] 
     - Topic for next session: 
         - Chapter 1, Chapter 2 (Understanding Cryptography, Christoff Paar)
+     
+- MEET-2 LOGS:
+    - Talking about Basic Cryptographic Techniques
+    - Classical Ciphers
+    - Starting the PCSP Project.
+
+
         
